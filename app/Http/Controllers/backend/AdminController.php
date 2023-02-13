@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\backend\Controllers\backend;
+namespace App\Http\Controllers\backend;
 
-use App\Http\Controllers\backend\Controllers\Controller;
+use App\Http\Controllers\Controller;
 use App\Http\Requests\AdminRequest;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;

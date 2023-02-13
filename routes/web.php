@@ -1,7 +1,6 @@
 <?php
 
-use App\Http\Controllers\backend\Controllers\backend\AdminController;
-use App\Http\Controllers\backend\Controllers\ProfileController;
+use App\Http\Controllers\backend\AdminController;
 use App\Http\Controllers\frontend\AboutController;
 use App\Http\Controllers\frontend\BlogController;
 use App\Http\Controllers\frontend\BlogDetailController;
@@ -11,6 +10,7 @@ use App\Http\Controllers\frontend\MainController;
 use App\Http\Controllers\frontend\ServiceController;
 use App\Http\Controllers\frontend\ServiceDetailController;
 use App\Http\Controllers\frontend\TeamController;
+use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
 
