@@ -15,7 +15,7 @@
     <ul class="navbar-nav ml-auto">
         <form action="{{route('logout')}}" method="get">
             <li class="nav-item">
-                <a href="{{route('register')}}" role="button"><i class="fa fa-sign-out-alt" style="font-size:24px">
+                <a href="{{route('login')}}" role="button"><i class="fa fa-sign-out-alt" style="font-size:24px">
                     </i></a>
             </li>
         </form>
